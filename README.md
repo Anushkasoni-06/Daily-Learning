@@ -1,3 +1,5 @@
 # Daily-Learning
 
-Learning basics of Github.
+Learnt basics of Github.
+
+Learning Basics of Html.
