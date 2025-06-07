@@ -7,3 +7,5 @@ Learning Basics of Html (2 June 2025)
 ~ Learnt Tags.
 ~ Learnt Page Layout.
 ~ Learnt Lists.
+~ Learnt Tables.
+~ Learnt Forms.
