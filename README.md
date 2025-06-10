@@ -1,8 +1,8 @@
 # Daily-Learning
 
-Learnt basics of Github (1 June 2025)
+Learnt basics of Github.
 
-Learning Basics of Html (2 June 2025)
+Learning Basics of Html.
 ~ Learnt Basic Structure.
 ~ Learnt Tags.
 ~ Learnt Page Layout.
@@ -13,3 +13,4 @@ Learning Basics of Html (2 June 2025)
 ~ Learnt Link and Navigation.
 ~ Learnt Semantic Tags.
 ~ Learnt Forms Advance.
+~ Learnt Entities.
