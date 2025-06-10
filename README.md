@@ -14,3 +14,4 @@ Learning Basics of Html.
 ~ Learnt Semantic Tags.
 ~ Learnt Forms Advance.
 ~ Learnt Entities.
+~ Learnt Head Meta.
