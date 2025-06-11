@@ -15,3 +15,4 @@ Learning Basics of Html.
 ~ Learnt Forms Advance.
 ~ Learnt Entities.
 ~ Learnt Head Meta.
+~ Learnt Input Types.
