@@ -3,6 +3,7 @@
 Learnt basics of Github.
 
 Learning Basics of Html.
+~ Made a Boiler Plate of HTML.
 ~ Learnt Basic Structure.
 ~ Learnt Tags.
 ~ Learnt Page Layout.
@@ -16,3 +17,4 @@ Learning Basics of Html.
 ~ Learnt Entities.
 ~ Learnt Head Meta.
 ~ Learnt Input Types.
+
