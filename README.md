@@ -1,6 +1,6 @@
 # Daily-Learning
 
-Learnt basics of Github.
+1.Learnt basics of Github.
 
 Learning Basics of Html.
 ~ Made a Boiler Plate of HTML.
