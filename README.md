@@ -5,9 +5,9 @@
 2.Learning Basics of Html.
  •Made a Boiler Plate of HTML.
  •Learnt Basic Structure.
-~ Learnt Tags.
-~ Learnt Page Layout.
-~ Learnt Lists.
+ •Learnt Tags.
+ •Learnt Page Layout.
+ •Learnt Lists.
 ~ Learnt Tables.
 ~ Learnt Forms.
 ~ Learnt Media Elements.
