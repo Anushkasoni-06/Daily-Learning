@@ -8,7 +8,7 @@
  •Learnt Tags.
  •Learnt Page Layout.
  •Learnt Lists.
-~ Learnt Tables.
+ •Learnt Tables.
 ~ Learnt Forms.
 ~ Learnt Media Elements.
 ~ Learnt Link and Navigation.
