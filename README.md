@@ -3,8 +3,8 @@
 1.Learnt basics of Github.
 
 2.Learning Basics of Html.
-~ Made a Boiler Plate of HTML.
-~ Learnt Basic Structure.
+ •Made a Boiler Plate of HTML.
+ •Learnt Basic Structure.
 ~ Learnt Tags.
 ~ Learnt Page Layout.
 ~ Learnt Lists.
