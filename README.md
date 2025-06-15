@@ -13,7 +13,7 @@
  •Learnt Media Elements.
  •Learnt Link and Navigation.
  •Learnt Semantic Tags.
-~ Learnt Forms Advance.
+ •Learnt Forms Advance.
 ~ Learnt Entities.
 ~ Learnt Head Meta.
 ~ Learnt Input Types.
