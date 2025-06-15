@@ -10,7 +10,7 @@
  •Learnt Lists.
  •Learnt Tables.
  •Learnt Forms.
-~ Learnt Media Elements.
+ •Learnt Media Elements.
 ~ Learnt Link and Navigation.
 ~ Learnt Semantic Tags.
 ~ Learnt Forms Advance.
