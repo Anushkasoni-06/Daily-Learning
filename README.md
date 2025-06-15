@@ -11,7 +11,7 @@
  •Learnt Tables.
  •Learnt Forms.
  •Learnt Media Elements.
-~ Learnt Link and Navigation.
+ •Learnt Link and Navigation.
 ~ Learnt Semantic Tags.
 ~ Learnt Forms Advance.
 ~ Learnt Entities.
