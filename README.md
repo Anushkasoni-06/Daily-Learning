@@ -14,7 +14,7 @@
  •Learnt Link and Navigation.
  •Learnt Semantic Tags.
  •Learnt Forms Advance.
-~ Learnt Entities.
-~ Learnt Head Meta.
-~ Learnt Input Types.
+ •Learnt Entities.
+ •Learnt Head Meta.
+ •Learnt Input Types.
 
