@@ -18,4 +18,4 @@
  •Learnt Head Meta.
  •Learnt Input Types.
   
- 3.Learnt Basics of
+ 3.Learnt Basics of CSS
