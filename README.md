@@ -21,4 +21,4 @@
  •Learnt Input Types.
 
   
- 3.Learnt Basics of CSS ~
+ 3.Learnt Basics of CSS 
