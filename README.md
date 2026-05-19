@@ -19,3 +19,5 @@
  •Learnt Entities.
  •Learnt Head Meta.
  •Learnt Input Types.
+
+3.Made a python console tarot app
